@@ -1,0 +1,33 @@
+TID,Description of the technique,Ignore
+T1110,Brute Force
+T1612,Build Image on Host
+T1552.007,Container API
+T1609,Container Administration Command
+T1053.007,Container Orchestration Job
+T1613,Container and Resource Discovery
+T1110.004,Credential Stuffing
+T1552.001,Credentials In Files
+T1078.001,Default Accounts
+T1610,Deploy Container
+T1562.001,Disable or Modify Tools
+T1499,Endpoint Denial of Service
+T1611,Escape to Host
+T1190,Exploit Public-Facing Application
+T1068,Exploitation for Privilege Escalation
+T1133,External Remote Services
+T1562,Impair Defenses
+T1525,Implant Internal Image
+T1070,Indicator Removal on Host
+T1078.003,Local Accounts
+T1204.003,Malicious Image
+T1036,Masquerading
+T1036.005,Match Legitimate Name or Location
+T1498,Network Denial of Service
+T1046,Network Service Scanning
+T1110.001,Password Guessing
+T1110.003,Password Spraying
+T1496,Resource Hijacking
+T1053,Scheduled Task/Job
+T1552,Unsecured Credentials
+T1204,User Execution
+T1078,Valid Accounts

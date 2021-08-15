@@ -1,0 +1,80 @@
+TID,Description of the technique,Ignore
+T1583,Acquire Infrastructure
+T1595,Active Scanning
+T1583.005,Botnet
+T1584.005,Botnet
+T1591.002,Business Relationships
+T1596.004,CDNs
+T1592.004,Client Configurations
+T1587.002,Code Signing Certificates
+T1588.003,Code Signing Certificates
+T1586,Compromise Accounts
+T1584,Compromise Infrastructure
+T1589.001,Credentials
+T1590.002,DNS
+T1583.002,DNS Server
+T1584.002,DNS Server
+T1596.001,DNS/Passive DNS
+T1591.001,Determine Physical Locations
+T1587,Develop Capabilities
+T1587.003,Digital Certificates
+T1588.004,Digital Certificates
+T1596.003,Digital Certificates
+T1590.001,Domain Properties
+T1583.001,Domains
+T1584.001,Domains
+T1608.004,Drive-by Target
+T1585.002,Email Accounts
+T1586.002,Email Accounts
+T1589.002,Email Addresses
+T1589.003,Employee Names
+T1585,Establish Accounts
+T1587.004,Exploits
+T1588.005,Exploits
+T1592.003,Firmware
+T1592,Gather Victim Host Information
+T1589,Gather Victim Identity Information
+T1590,Gather Victim Network Information
+T1591,Gather Victim Org Information
+T1592.001,Hardware
+T1590.005,IP Addresses
+T1591.003,Identify Business Tempo
+T1591.004,Identify Roles
+T1608.003,Install Digital Certificate
+T1608.005,Link Target
+T1587.001,Malware
+T1588.001,Malware
+T1590.006,Network Security Appliances
+T1590.004,Network Topology
+T1590.003,Network Trust Dependencies
+T1588,Obtain Capabilities
+T1598,Phishing for Information
+T1597.002,Purchase Technical Data
+T1596.005,Scan Databases
+T1595.001,Scanning IP Blocks
+T1597,Search Closed Sources
+T1593.002,Search Engines
+T1596,Search Open Technical Databases
+T1593,Search Open Websites/Domains
+T1594,Search Victim-Owned Websites
+T1583.004,Server
+T1584.004,Server
+T1593.001,Social Media
+T1585.001,Social Media Accounts
+T1586.001,Social Media Accounts
+T1592.002,Software
+T1598.002,Spearphishing Attachment
+T1598.003,Spearphishing Link
+T1598.001,Spearphishing Service
+T1608,Stage Capabilities
+T1597.001,Threat Intel Vendors
+T1588.002,Tool
+T1608.001,Upload Malware
+T1608.002,Upload Tool
+T1583.003,Virtual Private Server
+T1584.003,Virtual Private Server
+T1588.006,Vulnerabilities
+T1595.002,Vulnerability Scanning
+T1596.002,WHOIS
+T1583.006,Web Services
+T1584.006,Web Services

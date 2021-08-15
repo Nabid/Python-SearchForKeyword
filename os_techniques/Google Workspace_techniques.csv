@@ -1,0 +1,42 @@
+TID,Description of the technique,Ignore
+T1087,Account Discovery
+T1098,Account Manipulation
+T1550.001,Application Access Token
+T1499.003,Application Exhaustion Flood
+T1499.004,Application or System Exploitation
+T1110,Brute Force
+T1136.003,Cloud Account
+T1087.004,Cloud Account
+T1078.004,Cloud Accounts
+T1069.003,Cloud Groups
+T1538,Cloud Service Dashboard
+T1526,Cloud Service Discovery
+T1136,Create Account
+T1110.004,Credential Stuffing
+T1213,Data from Information Repositories
+T1078.001,Default Accounts
+T1498.001,Direct Network Flood
+T1087.003,Email Account
+T1114,Email Collection
+T1114.003,Email Forwarding Rule
+T1499,Endpoint Denial of Service
+T1606,Forge Web Credentials
+T1534,Internal Spearphishing
+T1498,Network Denial of Service
+T1110.001,Password Guessing
+T1110.003,Password Spraying
+T1069,Permission Groups Discovery
+T1566,Phishing
+T1498.002,Reflection Amplification
+T1114.002,Remote Email Collection
+T1606.002,SAML Tokens
+T1518.001,Security Software Discovery
+T1499.002,Service Exhaustion Flood
+T1518,Software Discovery
+T1566.002,Spearphishing Link
+T1528,Steal Application Access Token
+T1539,Steal Web Session Cookie
+T1552,Unsecured Credentials
+T1550,Use Alternate Authentication Material
+T1078,Valid Accounts
+T1550.004,Web Session Cookie

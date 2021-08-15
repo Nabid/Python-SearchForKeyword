@@ -1,0 +1,259 @@
+Old Technique,New Technique,Platform,Description of the new technique
+T1015,T1546.008,Windows,Accessibility Features
+T1182,T1546.009,Windows,AppCert DLLs
+T1103,T1546.010,Windows,AppInit DLLs
+T1155,T1059.002,macOS,AppleScript
+T1527,T1550.001,Office 365,SaaS,Google Workspace,Application Access Token
+T1017,T1072,Linux,macOS,Windows,Software Deployment Tools
+T1138,T1546.011,Windows,Application Shimming
+T1131,T1547.002,Windows,Authentication Package
+T1139,T1552.003,Linux,macOS,Bash History
+T1009,T1027.001,Linux,macOS,Windows,Binary Padding
+T1067,T1542.003,Linux,Windows,Bootkit
+T1088,T1548.002,Windows,Bypass User Account Control
+T1191,T1218.003,Windows,CMSTP
+T1042,T1546.001,Windows,Change Default File Association
+T1146,T1070.003,Linux,macOS,Windows,Clear Command History
+T1522,T1552.005,IaaS,Cloud Instance Metadata API
+T1116,T1553.002,macOS,Windows,Code Signing
+T1500,T1027.004,Linux,macOS,Windows,Compile After Delivery
+T1223,T1218.001,Windows,Compiled HTML File
+T1109,T1542.002,Windows,Component Firmware
+T1122,T1546.015,Windows,Component Object Model Hijacking
+T1196,T1218.002,Windows,Control Panel
+T1503,T1555.003,Linux,macOS,Windows,Credentials from Web Browsers
+T1081,T1552.001,Linux,macOS,Windows,Containers,IaaS,Credentials In Files
+T1214,T1552.002,Windows,Credentials in Registry
+T1094,T1095,Linux,macOS,Windows,Network,Non-Application Layer Protocol
+T1024,T1573,Linux,macOS,Windows,Encrypted Channel
+T1038,T1574.001,Windows,DLL Search Order Hijacking
+T1073,T1574.002,Windows,DLL Side-Loading
+T1002,T1560,Linux,macOS,Windows,Archive Collected Data
+T1022,T1560,Linux,macOS,Windows,Archive Collected Data
+T1089,T1562.001,Linux,macOS,Windows,Containers,IaaS,Disable or Modify Tools
+T1488,T1561.001,Linux,macOS,Windows,Disk Content Wipe
+T1487,T1561.002,Linux,macOS,Windows,Disk Structure Wipe
+T1172,T1090.004,Linux,macOS,Windows,Domain Fronting
+T1483,T1568.002,Linux,macOS,Windows,Domain Generation Algorithms
+T1157,T1574.004,macOS,Dylib Hijacking
+T1173,T1559.002,Windows,Dynamic Data Exchange
+T1514,T1548.004,macOS,Elevated Execution with Prompt
+T1519,T1546.014,macOS,Emond
+T1181,T1055.011,Windows,Extra Window Memory Injection
+T1107,T1070.004,Linux,macOS,Windows,File Deletion
+T1044,T1574.010,Windows,Services File Permissions Weakness
+T1144,T1553.001,macOS,Gatekeeper Bypass
+T1148,T1562.003,Linux,macOS,Windows,Impair Command History Logging
+T1158,T1564.001,Linux,macOS,Windows,Hidden Files and Directories
+T1147,T1564.002,macOS,Hidden Users
+T1143,T1564.003,macOS,Windows,Hidden Window
+T1179,T1056.004,Windows,Credential API Hooking
+T1183,T1546.012,Windows,Image File Execution Options Injection
+T1054,T1562.006,Linux,macOS,Windows,Indicator Blocking
+T1066,T1027.005,Linux,macOS,Windows,Indicator Removal from Tools
+T1141,T1056.002,macOS,Windows,GUI Input Capture
+T1130,T1553.004,Linux,macOS,Windows,Install Root Certificate
+T1118,T1218.004,Windows,InstallUtil
+T1208,T1558.003,Windows,Kerberoasting
+T1215,T1547.006,Linux,macOS,Kernel Modules and Extensions
+T1142,T1555.001,macOS,Keychain
+T1161,T1546.006,macOS,LC_LOAD_DYLIB Addition
+T1171,T1557.001,Windows,LLMNR/NBT-NS Poisoning and SMB Relay
+T1177,T1547.008,Windows,LSASS Driver
+T1159,T1543.001,macOS,Launch Agent
+T1160,T1543.004,macOS,Launch Daemon
+T1152,T1569.001,macOS,Launchctl
+T1168,T1053,Linux,macOS,Windows,Containers,Scheduled Task/Job
+T1162,T1547.011,macOS,Plist Modification
+T1156,T1546.004,Linux,macOS,Unix Shell Configuration Modification
+T1031,T1543.003,Windows,Windows Service
+T1170,T1218.005,Windows,Mshta
+T1188,T1090.003,Linux,macOS,Windows,Network,Multi-hop Proxy
+T1079,T1573,Linux,macOS,Windows,Encrypted Channel
+T1096,T1564.004,Windows,NTFS File Attributes
+T1128,T1546.007,Windows,Netsh Helper DLL
+T1126,T1070.005,Windows,Network Share Connection Removal
+T1050,T1543.003,Windows,Windows Service
+T1502,T1134.004,Windows,Parent PID Spoofing
+T1075,T1550.002,Windows,Pass the Hash
+T1097,T1550.003,Windows,Pass the Ticket
+T1174,T1556.002,Windows,Password Filter DLL
+T1150,T1547.011,macOS,Plist Modification
+T1013,T1547.010,Windows,Port Monitors
+T1086,T1059.001,Windows,PowerShell
+T1504,T1546.013,Windows,PowerShell Profile
+T1145,T1552.004,Linux,macOS,Windows,Private Keys
+T1186,T1055.013,Windows,Process Doppelgänging
+T1093,T1055.012,Windows,Process Hollowing
+T1163,T1037.004,Linux,macOS,RC Scripts
+T1164,T1547.007,macOS,Re-opened Applications
+T1060,T1547.001,Windows,Registry Run Keys / Startup Folder
+T1121,T1218.009,Windows,Regsvcs/Regasm
+T1117,T1218.010,Windows,Regsvr32
+T1076,T1021.001,Windows,Remote Desktop Protocol
+T1536,T1578.004,IaaS,Revert Cloud Instance
+T1085,T1218.011,Windows,Rundll32
+T1494,T1565.003,Linux,macOS,Windows,Runtime Data Manipulation
+T1178,T1134.005,Windows,SID-History Injection
+T1198,T1553.003,Windows,SIP and Trust Provider Hijacking
+T1184,T1563.001,Linux,macOS,SSH Hijacking
+T1180,T1546.002,Windows,Screensaver
+T1063,T1518.001,Linux,macOS,Windows,Office 365,Azure AD,Azure,SaaS,Google Workspace,IaaS,Security Software Discovery
+T1101,T1547.005,Windows,Security Support Provider
+T1167,T1555.002,Linux,macOS,Securityd Memory
+T1035,T1569.002,Windows,Service Execution
+T1058,T1574.011,Windows,Services Registry Permissions Weakness
+T1166,T1548.001,Linux,macOS,Setuid and Setgid
+T1023,T1547.009,Windows,Shortcut Modification
+T1045,T1027.002,macOS,Windows,Software Packing
+T1151,T1036.006,Linux,macOS,Space after Filename
+T1193,T1566.001,Linux,macOS,Windows,Spearphishing Attachment
+T1192,T1566.002,Linux,macOS,Windows,Office 365,SaaS,Google Workspace,Spearphishing Link
+T1194,T1566.003,Linux,macOS,Windows,Spearphishing via Service
+T1032,T1573,Linux,macOS,Windows,Encrypted Channel
+T1165,T1037.005,macOS,Startup Items
+T1492,T1565.001,Linux,macOS,Windows,Stored Data Manipulation
+T1169,T1548.003,Linux,macOS,Sudo and Sudo Caching
+T1206,T1548.003,Linux,macOS,Sudo and Sudo Caching
+T1019,T1542.001,Windows,System Firmware
+T1501,T1543.002,Linux,Systemd Service
+T1209,T1547.003,Windows,Time Providers
+T1099,T1070.006,Linux,macOS,Windows,Timestomp
+T1493,T1565.002,Linux,macOS,Windows,Transmitted Data Manipulation
+T1154,T1546.005,Linux,macOS,Trap
+T1065,T1571,Linux,macOS,Windows,Non-Standard Port
+T1506,T1550.004,Office 365,SaaS,Google Workspace,Web Session Cookie
+T1100,T1505.003,Linux,macOS,Windows,Web Shell
+T1077,T1021.002,Windows,SMB/Windows Admin Shares
+T1084,T1546.003,Windows,Windows Management Instrumentation Event Subscription
+T1028,T1021.006,Windows,Windows Remote Management
+T1004,T1547.004,Windows,Winlogon Helper DLL
+T1015,T1546.008,Windows,Accessibility Features
+T1182,T1546.009,Windows,AppCert DLLs
+T1103,T1546.010,Windows,AppInit DLLs
+T1155,T1059.002,macOS,AppleScript
+T1527,T1550.001,Office 365,SaaS,Google Workspace,Application Access Token
+T1017,T1072,Linux,macOS,Windows,Software Deployment Tools
+T1138,T1546.011,Windows,Application Shimming
+T1131,T1547.002,Windows,Authentication Package
+T1139,T1552.003,Linux,macOS,Bash History
+T1009,T1027.001,Linux,macOS,Windows,Binary Padding
+T1067,T1542.003,Linux,Windows,Bootkit
+T1088,T1548.002,Windows,Bypass User Account Control
+T1191,T1218.003,Windows,CMSTP
+T1042,T1546.001,Windows,Change Default File Association
+T1146,T1070.003,Linux,macOS,Windows,Clear Command History
+T1522,T1552.005,IaaS,Cloud Instance Metadata API
+T1116,T1553.002,macOS,Windows,Code Signing
+T1500,T1027.004,Linux,macOS,Windows,Compile After Delivery
+T1223,T1218.001,Windows,Compiled HTML File
+T1109,T1542.002,Windows,Component Firmware
+T1122,T1546.015,Windows,Component Object Model Hijacking
+T1196,T1218.002,Windows,Control Panel
+T1503,T1555.003,Linux,macOS,Windows,Credentials from Web Browsers
+T1081,T1552.001,Linux,macOS,Windows,Containers,IaaS,Credentials In Files
+T1214,T1552.002,Windows,Credentials in Registry
+T1094,T1095,Linux,macOS,Windows,Network,Non-Application Layer Protocol
+T1024,T1573,Linux,macOS,Windows,Encrypted Channel
+T1038,T1574.001,Windows,DLL Search Order Hijacking
+T1073,T1574.002,Windows,DLL Side-Loading
+T1002,T1560,Linux,macOS,Windows,Archive Collected Data
+T1022,T1560,Linux,macOS,Windows,Archive Collected Data
+T1089,T1562.001,Linux,macOS,Windows,Containers,IaaS,Disable or Modify Tools
+T1488,T1561.001,Linux,macOS,Windows,Disk Content Wipe
+T1487,T1561.002,Linux,macOS,Windows,Disk Structure Wipe
+T1172,T1090.004,Linux,macOS,Windows,Domain Fronting
+T1483,T1568.002,Linux,macOS,Windows,Domain Generation Algorithms
+T1157,T1574.004,macOS,Dylib Hijacking
+T1173,T1559.002,Windows,Dynamic Data Exchange
+T1514,T1548.004,macOS,Elevated Execution with Prompt
+T1519,T1546.014,macOS,Emond
+T1181,T1055.011,Windows,Extra Window Memory Injection
+T1107,T1070.004,Linux,macOS,Windows,File Deletion
+T1044,T1574.010,Windows,Services File Permissions Weakness
+T1144,T1553.001,macOS,Gatekeeper Bypass
+T1148,T1562.003,Linux,macOS,Windows,Impair Command History Logging
+T1158,T1564.001,Linux,macOS,Windows,Hidden Files and Directories
+T1147,T1564.002,macOS,Hidden Users
+T1143,T1564.003,macOS,Windows,Hidden Window
+T1179,T1056.004,Windows,Credential API Hooking
+T1183,T1546.012,Windows,Image File Execution Options Injection
+T1054,T1562.006,Linux,macOS,Windows,Indicator Blocking
+T1066,T1027.005,Linux,macOS,Windows,Indicator Removal from Tools
+T1141,T1056.002,macOS,Windows,GUI Input Capture
+T1130,T1553.004,Linux,macOS,Windows,Install Root Certificate
+T1118,T1218.004,Windows,InstallUtil
+T1208,T1558.003,Windows,Kerberoasting
+T1215,T1547.006,Linux,macOS,Kernel Modules and Extensions
+T1142,T1555.001,macOS,Keychain
+T1161,T1546.006,macOS,LC_LOAD_DYLIB Addition
+T1171,T1557.001,Windows,LLMNR/NBT-NS Poisoning and SMB Relay
+T1177,T1547.008,Windows,LSASS Driver
+T1159,T1543.001,macOS,Launch Agent
+T1160,T1543.004,macOS,Launch Daemon
+T1152,T1569.001,macOS,Launchctl
+T1168,T1053,Linux,macOS,Windows,Containers,Scheduled Task/Job
+T1162,T1547.011,macOS,Plist Modification
+T1156,T1546.004,Linux,macOS,Unix Shell Configuration Modification
+T1031,T1543.003,Windows,Windows Service
+T1170,T1218.005,Windows,Mshta
+T1188,T1090.003,Linux,macOS,Windows,Network,Multi-hop Proxy
+T1079,T1573,Linux,macOS,Windows,Encrypted Channel
+T1096,T1564.004,Windows,NTFS File Attributes
+T1128,T1546.007,Windows,Netsh Helper DLL
+T1126,T1070.005,Windows,Network Share Connection Removal
+T1050,T1543.003,Windows,Windows Service
+T1502,T1134.004,Windows,Parent PID Spoofing
+T1075,T1550.002,Windows,Pass the Hash
+T1097,T1550.003,Windows,Pass the Ticket
+T1174,T1556.002,Windows,Password Filter DLL
+T1150,T1547.011,macOS,Plist Modification
+T1013,T1547.010,Windows,Port Monitors
+T1086,T1059.001,Windows,PowerShell
+T1504,T1546.013,Windows,PowerShell Profile
+T1145,T1552.004,Linux,macOS,Windows,Private Keys
+T1186,T1055.013,Windows,Process Doppelgänging
+T1093,T1055.012,Windows,Process Hollowing
+T1163,T1037.004,Linux,macOS,RC Scripts
+T1164,T1547.007,macOS,Re-opened Applications
+T1060,T1547.001,Windows,Registry Run Keys / Startup Folder
+T1121,T1218.009,Windows,Regsvcs/Regasm
+T1117,T1218.010,Windows,Regsvr32
+T1076,T1021.001,Windows,Remote Desktop Protocol
+T1536,T1578.004,IaaS,Revert Cloud Instance
+T1085,T1218.011,Windows,Rundll32
+T1494,T1565.003,Linux,macOS,Windows,Runtime Data Manipulation
+T1178,T1134.005,Windows,SID-History Injection
+T1198,T1553.003,Windows,SIP and Trust Provider Hijacking
+T1184,T1563.001,Linux,macOS,SSH Hijacking
+T1180,T1546.002,Windows,Screensaver
+T1063,T1518.001,Linux,macOS,Windows,Office 365,Azure AD,Azure,SaaS,Google Workspace,IaaS,Security Software Discovery
+T1101,T1547.005,Windows,Security Support Provider
+T1167,T1555.002,Linux,macOS,Securityd Memory
+T1035,T1569.002,Windows,Service Execution
+T1058,T1574.011,Windows,Services Registry Permissions Weakness
+T1166,T1548.001,Linux,macOS,Setuid and Setgid
+T1023,T1547.009,Windows,Shortcut Modification
+T1045,T1027.002,macOS,Windows,Software Packing
+T1151,T1036.006,Linux,macOS,Space after Filename
+T1193,T1566.001,Linux,macOS,Windows,Spearphishing Attachment
+T1192,T1566.002,Linux,macOS,Windows,Office 365,SaaS,Google Workspace,Spearphishing Link
+T1194,T1566.003,Linux,macOS,Windows,Spearphishing via Service
+T1032,T1573,Linux,macOS,Windows,Encrypted Channel
+T1165,T1037.005,macOS,Startup Items
+T1492,T1565.001,Linux,macOS,Windows,Stored Data Manipulation
+T1169,T1548.003,Linux,macOS,Sudo and Sudo Caching
+T1206,T1548.003,Linux,macOS,Sudo and Sudo Caching
+T1019,T1542.001,Windows,System Firmware
+T1501,T1543.002,Linux,Systemd Service
+T1209,T1547.003,Windows,Time Providers
+T1099,T1070.006,Linux,macOS,Windows,Timestomp
+T1493,T1565.002,Linux,macOS,Windows,Transmitted Data Manipulation
+T1154,T1546.005,Linux,macOS,Trap
+T1065,T1571,Linux,macOS,Windows,Non-Standard Port
+T1506,T1550.004,Office 365,SaaS,Google Workspace,Web Session Cookie
+T1100,T1505.003,Linux,macOS,Windows,Web Shell
+T1077,T1021.002,Windows,SMB/Windows Admin Shares
+T1084,T1546.003,Windows,Windows Management Instrumentation Event Subscription
+T1028,T1021.006,Windows,Windows Remote Management
+T1004,T1547.004,Windows,Winlogon Helper DLL

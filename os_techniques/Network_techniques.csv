@@ -1,0 +1,30 @@
+TID,Description of the technique,Ignore
+T1020,Automated Exfiltration
+T1059,Command and Scripting Interpreter
+T1602,Data from Configuration Repository
+T1600.002,Disable Crypto Hardware
+T1601.002,Downgrade System Image
+T1190,Exploit Public-Facing Application
+T1056,Input Capture
+T1056.001,Keylogging
+T1556,Modify Authentication Process
+T1601,Modify System Image
+T1090.003,Multi-hop Proxy
+T1599.001,Network Address Translation Traversal
+T1599,Network Boundary Bridging
+T1556.004,Network Device Authentication
+T1059.008,Network Device CLI
+T1602.002,Network Device Configuration Dump
+T1040,Network Sniffing
+T1095,Non-Application Layer Protocol
+T1601.001,Patch System Image
+T1205.001,Port Knocking
+T1542,Pre-OS Boot
+T1090,Proxy
+T1542.004,ROMMONkit
+T1600.001,Reduce Key Space
+T1602.001,SNMP (MIB Dump)
+T1542.005,TFTP Boot
+T1020.001,Traffic Duplication
+T1205,Traffic Signaling
+T1600,Weaken Encryption

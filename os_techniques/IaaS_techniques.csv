@@ -1,0 +1,60 @@
+TID,Description of the technique,Ignore
+T1087,Account Discovery
+T1098,Account Manipulation
+T1098.001,Additional Cloud Credentials
+T1499.003,Application Exhaustion Flood
+T1499.004,Application or System Exploitation
+T1110,Brute Force
+T1136.003,Cloud Account
+T1087.004,Cloud Account
+T1078.004,Cloud Accounts
+T1069.003,Cloud Groups
+T1580,Cloud Infrastructure Discovery
+T1552.005,Cloud Instance Metadata API
+T1538,Cloud Service Dashboard
+T1526,Cloud Service Discovery
+T1136,Create Account
+T1578.002,Create Cloud Instance
+T1578.001,Create Snapshot
+T1110.004,Credential Stuffing
+T1552.001,Credentials In Files
+T1485,Data Destruction
+T1486,Data Encrypted for Impact
+T1074,Data Staged
+T1530,Data from Cloud Storage Object
+T1491,Defacement
+T1078.001,Default Accounts
+T1578.003,Delete Cloud Instance
+T1498.001,Direct Network Flood
+T1562.008,Disable Cloud Logs
+T1562.007,Disable or Modify Cloud Firewall
+T1562.001,Disable or Modify Tools
+T1499,Endpoint Denial of Service
+T1190,Exploit Public-Facing Application
+T1491.002,External Defacement
+T1562,Impair Defenses
+T1525,Implant Internal Image
+T1204.003,Malicious Image
+T1578,Modify Cloud Compute Infrastructure
+T1498,Network Denial of Service
+T1046,Network Service Scanning
+T1110.001,Password Guessing
+T1110.003,Password Spraying
+T1069,Permission Groups Discovery
+T1108,Redundant Access
+T1498.002,Reflection Amplification
+T1074.002,Remote Data Staging
+T1496,Resource Hijacking
+T1578.004,Revert Cloud Instance
+T1518.001,Security Software Discovery
+T1499.002,Service Exhaustion Flood
+T1518,Software Discovery
+T1082,System Information Discovery
+T1614,System Location Discovery
+T1049,System Network Connections Discovery
+T1537,Transfer Data to Cloud Account
+T1199,Trusted Relationship
+T1552,Unsecured Credentials
+T1535,Unused/Unsupported Cloud Regions
+T1204,User Execution
+T1078,Valid Accounts
